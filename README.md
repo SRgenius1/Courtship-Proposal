@@ -1,8 +1,8 @@
-### Courtship proposal IMPOSSIBLE TO REFUSE
+# Courtship proposal IMPOSSIBLE TO REFUSE
 
 - Using Html, Css, JS
 
-# Thank you for viewing this Repo, a hug!
+## Thank you for viewing this Repo, a hug!
 
 Follow me on [Instagram](https://www.instagram.com/dev_juan22/)
 Follow me on [Facebook](https://www.facebook.com/juandavid.reyesbedoya.7)
